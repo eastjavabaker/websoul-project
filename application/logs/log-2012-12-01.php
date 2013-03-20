@@ -1,0 +1,84 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-12-01 01:18:50 --> Severity: Notice  --> Undefined variable: filled /home/redcommb/public_html/mandalajoyflight/application/views/page/template.php 138
+ERROR - 2012-12-01 17:29:34 --> Severity: Notice  --> Undefined variable: filled /home/redcommb/public_html/mandalajoyflight/application/views/page/template.php 138
+ERROR - 2012-12-01 17:29:39 --> Severity: Notice  --> Undefined variable: filled /home/redcommb/public_html/mandalajoyflight/application/views/page/template.php 138
+ERROR - 2012-12-01 17:33:56 --> Severity: Notice  --> Undefined variable: filled /home/redcommb/public_html/mandalajoyflight/application/views/page/template.php 138
+ERROR - 2012-12-01 17:33:58 --> Severity: Notice  --> Undefined variable: filled /home/redcommb/public_html/mandalajoyflight/application/views/page/template.php 138
+ERROR - 2012-12-01 17:34:48 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 39
+ERROR - 2012-12-01 17:34:48 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 41
+ERROR - 2012-12-01 17:34:48 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 42
+ERROR - 2012-12-01 17:34:48 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 44
+ERROR - 2012-12-01 17:34:48 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 45
+ERROR - 2012-12-01 17:34:48 --> Severity: Notice  --> Undefined offset:  2 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 46
+ERROR - 2012-12-01 17:34:48 --> Severity: Notice  --> Undefined offset:  1 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 46
+ERROR - 2012-12-01 17:34:48 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 47
+ERROR - 2012-12-01 17:34:48 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 48
+ERROR - 2012-12-01 17:34:48 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 49
+ERROR - 2012-12-01 17:34:48 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 50
+ERROR - 2012-12-01 17:34:48 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 51
+ERROR - 2012-12-01 17:34:48 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 52
+ERROR - 2012-12-01 17:34:48 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 53
+ERROR - 2012-12-01 17:34:48 --> Query error: Column 'fb_uid' cannot be null
+ERROR - 2012-12-01 17:39:10 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 39
+ERROR - 2012-12-01 17:39:10 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 41
+ERROR - 2012-12-01 17:39:10 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 42
+ERROR - 2012-12-01 17:39:10 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 44
+ERROR - 2012-12-01 17:39:10 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 45
+ERROR - 2012-12-01 17:39:10 --> Severity: Notice  --> Undefined offset:  2 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 46
+ERROR - 2012-12-01 17:39:10 --> Severity: Notice  --> Undefined offset:  1 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 46
+ERROR - 2012-12-01 17:39:10 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 47
+ERROR - 2012-12-01 17:39:10 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 48
+ERROR - 2012-12-01 17:39:10 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 49
+ERROR - 2012-12-01 17:39:10 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 50
+ERROR - 2012-12-01 17:39:10 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 51
+ERROR - 2012-12-01 17:39:10 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 52
+ERROR - 2012-12-01 17:39:10 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 53
+ERROR - 2012-12-01 17:39:10 --> Query error: Column 'fb_uid' cannot be null
+ERROR - 2012-12-01 17:39:27 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 39
+ERROR - 2012-12-01 17:39:27 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 41
+ERROR - 2012-12-01 17:39:27 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 42
+ERROR - 2012-12-01 17:39:27 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 44
+ERROR - 2012-12-01 17:39:27 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 45
+ERROR - 2012-12-01 17:39:27 --> Severity: Notice  --> Undefined offset:  2 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 46
+ERROR - 2012-12-01 17:39:27 --> Severity: Notice  --> Undefined offset:  1 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 46
+ERROR - 2012-12-01 17:39:27 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 47
+ERROR - 2012-12-01 17:39:27 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 48
+ERROR - 2012-12-01 17:39:27 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 49
+ERROR - 2012-12-01 17:39:27 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 50
+ERROR - 2012-12-01 17:39:27 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 51
+ERROR - 2012-12-01 17:39:27 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 52
+ERROR - 2012-12-01 17:39:27 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 53
+ERROR - 2012-12-01 17:39:27 --> Query error: Column 'fb_uid' cannot be null
+ERROR - 2012-12-01 17:39:49 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 39
+ERROR - 2012-12-01 17:39:49 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 41
+ERROR - 2012-12-01 17:39:49 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 42
+ERROR - 2012-12-01 17:39:49 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 44
+ERROR - 2012-12-01 17:39:49 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 45
+ERROR - 2012-12-01 17:39:49 --> Severity: Notice  --> Undefined offset:  2 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 46
+ERROR - 2012-12-01 17:39:49 --> Severity: Notice  --> Undefined offset:  1 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 46
+ERROR - 2012-12-01 17:39:49 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 47
+ERROR - 2012-12-01 17:39:49 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 48
+ERROR - 2012-12-01 17:39:49 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 49
+ERROR - 2012-12-01 17:39:49 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 50
+ERROR - 2012-12-01 17:39:49 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 51
+ERROR - 2012-12-01 17:39:49 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 52
+ERROR - 2012-12-01 17:39:49 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 53
+ERROR - 2012-12-01 17:39:49 --> Query error: Column 'fb_uid' cannot be null
+ERROR - 2012-12-01 17:40:57 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 39
+ERROR - 2012-12-01 17:40:57 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 41
+ERROR - 2012-12-01 17:40:57 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 42
+ERROR - 2012-12-01 17:40:57 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 44
+ERROR - 2012-12-01 17:40:57 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 45
+ERROR - 2012-12-01 17:40:57 --> Severity: Notice  --> Undefined offset:  2 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 46
+ERROR - 2012-12-01 17:40:57 --> Severity: Notice  --> Undefined offset:  1 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 46
+ERROR - 2012-12-01 17:40:57 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 47
+ERROR - 2012-12-01 17:40:57 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 48
+ERROR - 2012-12-01 17:40:57 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 49
+ERROR - 2012-12-01 17:40:57 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 50
+ERROR - 2012-12-01 17:40:57 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 51
+ERROR - 2012-12-01 17:40:57 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 52
+ERROR - 2012-12-01 17:40:57 --> Severity: Notice  --> Undefined offset:  0 /home/redcommb/public_html/mandalajoyflight/application/models/membermodel.php 53
+ERROR - 2012-12-01 17:40:57 --> Query error: Column 'fb_uid' cannot be null
+ERROR - 2012-12-01 17:42:19 --> Severity: Notice  --> Undefined variable: filled /home/redcommb/public_html/mandalajoyflight/application/views/page/template.php 138
+ERROR - 2012-12-01 17:42:38 --> Severity: Notice  --> Undefined variable: filled /home/redcommb/public_html/mandalajoyflight/application/views/page/template.php 138

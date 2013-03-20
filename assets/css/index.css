@@ -1,0 +1,232 @@
+/* CSS Document */
+
+/* Reset */
+html body * span.clear,
+html body * div.clear,
+html body * li.clear,
+html body * dd.clear
+{ background: none; border: 0; clear: both; display: block; float: none; font-size: 0; list-style: none; margin: 0; padding: 0; overflow: hidden; visibility: hidden; width: 0; height: 0;  }
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td
+input, textarea 
+{ margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent; }
+ol{padding-left:20px;}
+
+@font-face {
+	font-family: 'DINProRegular';
+	src: url('font/dinpro-regular.eot');
+	src: url('font/dinpro-regular.eot?#iefix') format('embedded-opentype'),
+			 url('font/dinpro-regular.woff') format('woff'),
+			 url('font/dinpro-regular.ttf') format('truetype'),
+			 url('font/dinpro-regular.svg#dinpro-regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'DINProBold';
+    src: url('font/dinpro-bold.eot');
+    src: url('font/dinpro-bold.eot') format('embedded-opentype'),
+         url('font/dinpro-bold.woff') format('woff'),
+         url('font/dinpro-bold.ttf') format('truetype'),
+         url('font/dinpro-bold.svg#DINProBold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'din-lightitalic';
+    src: url('font/din-lightitalic_0-webfont.eot');
+    src: url('font/din-lightitalic_0-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/din-lightitalic_0-webfont.woff') format('woff'),
+         url('font/din-lightitalic_0-webfont.ttf') format('truetype'),
+         url('font/din-lightitalic_0-webfont.svg#din-lightitalicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+body{
+	margin:0;
+	padding:0;
+	color:#000;
+	font-family: 'DINProRegular';
+}
+
+
+/* BEGIN STRUCTURE */
+#wrapper {
+	position:relative;
+	width:810px;
+	margin: 0 auto;
+}
+#wrapper.blike{background:url(../images/liked.jpg) center top; height:589px;}
+#wrapper.cover{background:url(../images/nolike.jpg) center top; height:589px;}
+#wrapper.reg{background:url(../images/bg.jpg) center top; height:589px;}
+
+#menu {
+	height: 60px;
+	margin-left: 221px;
+	font-size: 12px;
+	width: 440px;
+}
+
+#menu div { padding-top: 24px; }
+
+#navlist li {	
+	display: inline-block;
+        list-style-type: none;
+	text-align: center;
+	width: 105px;
+}
+
+#navlist li a {
+	 text-decoration: none;
+	 color: #000;
+}
+
+#how {
+       margin: 0 auto;
+       margin-top: 40px;
+       width: 432px;
+       height: 392px;
+}
+#howstart {
+       margin: 0 auto;
+       margin-top: 22px;
+       width: 204px;
+       height: 53px;
+}
+
+#mainquiz{
+	margin: 0 auto;
+	margin-top: 73px;
+	width: 778px;
+	height: 447px;
+}
+
+#id1 { 
+     background:url(../images/quiz1.png) center top;	 
+     width: 342px;
+     height: 441px;
+     float: left;
+}
+
+#id2 {
+     background:url(../images/quiz2.png) center top;	 
+     width: 431px;
+     height: 443px;
+     margin-left: 3px;
+     float: left;
+}
+
+#btninvite {
+	width: 277px;
+	height: 48px;
+	margin: 0 auto;
+	margin-top: 365px;
+	cursor: pointer;
+}
+
+#txtquiz {
+	margin-top:92px;
+	padding-top: 10px;
+	height: 126px;
+	width: 366px;
+	margin-left: 34px;
+	font-size: 24px;
+	line-height: 130% !important;
+	font-family: 'DINProRegular';
+}
+
+#contact {
+	margin: 0 auto;
+	margin-top:44px;
+	height: 401px;
+	width: 452px;
+	background:url(../images/contact.png) center top;
+	font-family: 'DINProRegular';
+}
+
+#thanks {
+	margin: 0 auto;
+	margin-top: 40px;
+	width: 397px;
+	height: 456px;
+	background:url(../images/thanks.png) center top;
+	background-repeat: no-repeat;
+}
+
+#thankscontent {
+	padding-top: 201px;
+	margin: 0 auto;
+	width: 326px;
+	height: 225px;
+}
+
+.inputtxt {
+	width: 317px;
+	height: 30px;
+	margin-bottom: 18px;
+	font-size: 16px;
+	color:#333;
+	border: 0; outline: 0; background: transparent;
+}
+
+#contact #form-contact
+
+{
+        font-family: 'DINProRegular';
+	padding: 90px 30px 20px 30px;
+
+}
+
+
+
+#contact #form-contact input[type=text]{
+
+	background: transparent url(../images/inputtext2.png) left top no-repeat;
+
+	border-radius: 5px;
+
+	background-color:#FFF;
+
+	width: 260px;
+
+	padding:5px;
+
+	height: 10px;	
+}
+
+
+
+#contact #form-contact textarea{
+
+	background: transparent url(../images/textarea2.png) left top no-repeat;
+
+	border-radius: 5px;
+
+	background-color:#FFF;
+
+	width: 260px;
+
+	padding: 5px;
+
+	height: 85px;
+
+	resize: none;
+
+}
+
+
+
+
